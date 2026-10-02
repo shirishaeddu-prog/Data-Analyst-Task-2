@@ -40,32 +40,3 @@ Key Insights
 4. Press the Run button.
 5. The sales and profit details will be displayed in the output.
 
-Sample Output
-
-```text
-DATA VISUALIZATION REPORT
--------------------------
-
-Technology
-Sales : 45000
-Profit: 12000
-
-Furniture
-Sales : 33000
-Profit: 7500
-
-Office Supplies
-Sales : 25500
-Profit: 8500
-
--------------------------
-Total Sales : 103500
-Total Profit: 28000
-
-KEY INSIGHTS
-1. Technology has the highest sales.
-2. Furniture has medium sales.
-3. Office Supplies has lower sales.
-4. Technology has the highest profit.
-
-Task 2 completed successfully!
